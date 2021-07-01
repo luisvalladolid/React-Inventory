@@ -1,28 +1,11 @@
 {
   "items": [
     {
-      "id": 1
-    },
-    {
-      "name": "luis",
-      "price": "9999",
-      "type": "test",
-      "brand": "test",
-      "id": 2
-    },
-    {
-      "name": "luis",
-      "price": "9999",
-      "type": "test",
-      "brand": "test",
-      "id": 3
-    },
-    {
-      "name": "luis",
-      "price": "2.99",
-      "type": "person",
-      "brand": "person",
-      "id": 4
+      "name": "bynx",
+      "price": "10000",
+      "type": "cat",
+      "brand": "awesome",
+      "id": 9
     }
   ]
 }
